@@ -26,9 +26,6 @@ The bot uses a deterministic decision tree to quickly categorize user issues int
     ```
 
 ## Usage Examples
-
-*(Note: Replace the links below with actual screenshots of your terminal running the script once uploaded to GitHub)*
-
 * **Handling Unrecognized & Empty Inputs:**
   ![Error Handling](error-handling-1.png)
   ![Error Handling](error-handling-2.png)
